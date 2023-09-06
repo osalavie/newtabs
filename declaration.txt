@@ -1,0 +1,7 @@
+<p>This extension is used for modify your new tabs url. If you start the extension, you will be redirect to google search as default. </p>
+<br/>
+<p>This extension need permissions to manage the tabs and storage your url settings for new tabs.</p>
+<br/>
+<p>If you click the accept button below, it indicates that you understand the above statement and agree to authorize the extension to modify the address of the new tab page.
+And it also indicates that you allow the extension to obtain storage permission for storing new URL addresses.</p>
+
